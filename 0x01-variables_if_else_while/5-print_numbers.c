@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Description: main - print digit numbers of base 10 
+ * Description: main - print all digit number of base 10
  * starting from 0, followed by a new line.
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  **/
 int main(void)
 {
