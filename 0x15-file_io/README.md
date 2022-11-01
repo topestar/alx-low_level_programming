@@ -1,4 +1,4 @@
-#Task 0x15 FILE I/O
+# **Task 0x15 FILE I/O
 
 There are 5 tasks including an additional task
 The Tasks in the directory includes:
@@ -11,4 +11,4 @@ The Tasks in the directory includes:
 
 **Task 4:** This is a program that copies the content of a file to another file.
 
-**Task 5**(Additional Task) : This a program that displays the information contained in the ELF header at the start of an ELF file
+**Task 5(Additional Task) :** This a program that displays the information contained in the ELF header at the start of an ELF file
