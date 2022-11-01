@@ -1,4 +1,4 @@
-#Task 0x15 FILE I/O**
+#Task 0x15 FILE I/O
 
 There are 5 tasks including an additional task
 The Tasks in the directory includes:
